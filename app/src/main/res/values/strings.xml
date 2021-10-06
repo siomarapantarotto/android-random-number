@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Random Number</string>
+    <string name="txt_title">Let\'s guess the number?</string> // Precede ' with \
+    <string name="txt_instruction">Think of a number from 0 to 10 and click the button PLAY to guess the number that will be raffled. Good Luck!</string>
+    <string name="btn_play">PLAY</string>
+    <string name="txt_result">No number raffled yet!</string>
+    <string name="msg_raffled_number">Raffled number = </string>
+</resources>
